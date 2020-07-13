@@ -1,0 +1,146 @@
+input[type="text"] {
+	font-size: 16px;
+	border: 1px solid #aaa;
+	border-radius: 50px;
+	margin: 8px 0;
+	outline: none;
+	padding: 8px;
+	box-sizing: border-box;
+	width: 585px;
+	height: 45px;
+	padding-left: 40px;
+	background-image:url("searchicon.jpg");
+	background-position: 13px 14px;
+	background-repeat: no-repeat;
+}
+
+
+.inputWithIcon {
+  position: relative;
+  text-align: center;
+}
+
+
+input[type="text"]:hover {
+	border-color: #aaa;
+	box-shadow: 0 0 3px;
+}
+
+
+.links {
+	text-align: right;
+}
+
+
+.links a {
+	text-decoration: none;
+	color: blue;
+}
+
+
+.links a:hover {
+	text-decoration: underline;
+}
+
+
+input[type="submit"] {
+	height: 37.5px;
+	width: 140px;
+	border-radius: 5px;
+	border: 0;
+	font-size: 14px;
+}
+
+
+input[type="submit"]:hover {
+	box-shadow: 0 0 2px;
+}
+
+
+.pic {
+	text-align: center;
+	padding-top: 170px;
+	padding-bottom: 15px;
+}
+
+
+img {
+	width: 280px;
+}
+
+
+h2 {
+	color: #d10a22;
+	padding-left:40px;
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+
+.advanced-insert {
+	border-radius: 0;
+}
+
+
+td {
+    padding:15px;
+}
+
+
+input[type="advanced-text"] {
+	width: 565px;
+	height: 25px;
+	border-radius: 0;
+	border: 1px solid #aaa;
+}
+
+
+input[type="advanced-text"]:focus {
+	box-shadow: 0 0 5px #51cbee;
+	padding: 3px 0px 3px 3px;
+	margin: 5px 1px 3px 0px;
+	border: 1px solid #51cbee;
+	
+}
+
+
+.rbut {
+	text-align:right;
+}
+
+
+.advb {
+	background-color:#4287f5;
+	color: white;
+}
+
+
+.advb:hover {
+	background-color: #4278f5;
+}
+
+
+.gvec {
+	width:95px;
+	padding-left:10px;
+}
+
+
+.line {
+	background-color:#f1f1f1;
+}
+
+
+.advbody {
+	margin:0;
+}
+
+
+h3, h4 {
+	font-weight: normal;
+}
+
+
+table {
+	padding-left: 25px;
+}
